@@ -1,0 +1,188 @@
+#include <stdio.h>
+
+int main()
+{
+	int maths;
+		printf("please enter the num 1 to 6");
+	("consider here 1= monday ,and 6= saturday");
+		scanf("%d",&maths);
+	if(math==1)
+	{
+		printf(\n today is monday\n9am-6th\n10am-7th\n11am-8th\n12pm-9th\n1pm-10th");
+	}
+	else if (maths == 2)
+	{
+		printf(\ntoday is tuesday\n10am-6th\n11am-7th\n12pm-8th\n1pm-9th\n2pm-10th");
+	}
+	else if (maths == 3)
+	{
+		printf("\n today is wednesday\n11am-6th\n12pm-7th\n1pm-8th\n2pm-9th\n3pm-10th");
+	}
+	else if (maths == 4)
+	{
+		printf("\n today is thursday\n12pm-6th\n1pm-7th\n2pm-8th\n3pm-9th\n4pm-10th");
+	}
+	else if (math == 5)
+	{
+		printf("\n today is friday\n8am-10th\n1pm-6th\n2pm-7th\n3pm-8th\n4pm-9th");
+	}
+	else if (math == 6)
+	{
+		printf("\n today is saturday\n8am-9th\n9am-10th\n2pm-8th\n3pm-7th\n4pm-8th");
+	}
+	else
+		printf(\n enter the valued num between 1 to 6);
+	return 0;
+}
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main()
+{
+	int science;
+		printf("please enter the num 1 to 6");
+	("consider here 1= monday ,and 6= saturday");
+		scanf("%d",&maths);
+	if(science == 1)
+	{
+		printf(\n today is monday\n10am-6th\n11am-7th\n12pm-8th\n1pm-9th\n2pm-10th");
+	}
+	else if (science == 2)
+	{
+		printf(\ntoday is tuesday\n11am-6th\n12pm-7th\n1pm-8th\n2pm-9th\n3pm-10th");
+	}
+	else if (science == 3)
+	{
+		printf("\n today is wednesday\n12pm-6th\n1pm-7th\n2pm-8th\n3pm-9th\n4pm-10th");
+	}
+	else if (science == 4)
+	{
+		printf("\n today is thursday\n8am-9th\n9am-10th\n2pm-6th\n3pm-7th\n4pm-8th\n4pm-9th");
+	}
+	else if (science == 5)
+	{
+		printf("\n today is friday\n8am-10th\n1pm-6th\n2pm-7th\n3pm-8th");
+	}
+	else if (science == 6)
+	{
+		printf("\n today is saturday\n8am-8th\n9am-9th\n10am-10th\n3pm-8th\n4pm-7th");
+	}
+	else
+		printf(\n enter the valued num between 1 to 6);
+	return 0;
+}
+---------------------------------------------------------------------------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main()
+{
+	int english;
+		printf("please enter the num 1 to 6");
+	("consider here 1= monday ,and 6= saturday");
+		scanf("%d",&maths);
+	if(english == 1)
+	{
+		printf(\n today is monday\n11am-6th\n12pm-7th\n1pm-8th\n2pm-9th\n3pm-10th);
+	}
+	else if (english == 2)
+	{
+		printf(\ntoday is tuesday\n12pm-6th\n1pm-7th\n2pm-8th\n3pm-9th\n4pm-10th");
+	}
+	else if (english == 3)
+	{
+		printf("\n today is wednesday\n8am-10th1pm-6th\n2pm-7th\n3pm-8th\n4pm-9th");
+	}
+	else if (english == 4)
+	{
+		printf("\n today is thursday\n8am-9th\n9am-10th\n2pm-6th\n3pm-7th\n4pm-8th");
+	}
+	else if (english == 5)
+	{
+		printf("\n today is friday\n8am-8th\9am-9th\10am-10th\n3pm-6th\n4pm-7th");
+	}
+	else if (english == 6)
+	{
+		printf("\n today is saturday\n8am-7th\n9am-8th\n10am-9th\n11am-10th\n4pm-6th");
+	}
+	else
+		printf(\n enter the valued num between 1 to 6);
+	return 0;
+}
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main()
+{
+	int kannada;
+		printf("please enter the num 1 to 6");
+	("consider here 1= monday ,and 6= saturday");
+		scanf("%d",&maths);
+	if(kannada == 1)
+	{
+		printf(\n today is monday\n12m-6th\n1pm-7th\n2pm-8th\n3pm-9th\n4pm-10th");
+	}
+	else if (kannada == 2)
+	{
+		printf(\ntoday is tuesday\n8am-10th\n1pm-6th\n2pm-7th\n3pm-8th\n4pm-9th");
+	}
+	else if (kannada == 3)
+	{
+		printf("\n today is wednesday\n8am-9th\n9am-10th\n2pm-6th\n3pm-7th\n4pm-8th");
+	}
+	else if (kannada == 4)
+	{
+		printf("\n today is thursday\n8am-8th\n9am-9th\n10am-10th\n3pm-6th\n4pm-7th");
+	}
+	else if (kannada == 5)
+	{
+		printf("\n today is friday\n8am-7th\9am-8th\10am-9th\n11am-10th\n4pm-6th");
+	}
+	else if (kannada == 6)
+	{
+		printf("\n today is saturday\n8am-6th\n9am-7th\n10am-8th\n11am-9th\n12pm-10th");
+	}
+	else
+		printf(\n enter the valued num between 1 to 6);
+	return 0;
+}
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main()
+{
+	int hindi;
+		printf("please enter the num 1 to 6");
+	("consider here 1= monday ,and 6= saturday");
+		scanf("%d",&maths);
+	if(hindi == 1)
+	{
+		printf(\n today is monday\n8am-10th\n1pm-6th\n2pm-7th\n3pm-8th\n4pm-9th");
+	}
+	else if (hindi == 2)
+	{
+		printf(\ntoday is tuesday\n8am-9thth\n9am-10th\n2pm-6th\n3pm-7th\n4pm-8th");
+	}
+	else if (hindi == 3)
+	{
+		printf("\n today is wednesday\n8am-8th\n9am-9th\n10am-10th\n3pm-6th\n4pm-7th");
+	}
+	else if (hindi == 4)
+	{
+		printf("\n today is thursday\n8am-7th\n9am-8th\n10am-9th\n11am-10th\n4pm-6th");
+	}
+	else if (hindi == 5)
+	{
+		printf("\n today is friday\n8am-6th\9am-7th\10am-8th\n11am-9th\n12pm-10th");
+	}
+	else if (hindi == 6)
+	{
+		printf("\n today is saturday\n9am-6th\n10am-7th\n11am-8th\n12pm-9th\n1pm-10th");
+	}
+	else
+		printf(\n enter the valued num between 1 to 6);
+	return 0;
+}
+
+
+
+
